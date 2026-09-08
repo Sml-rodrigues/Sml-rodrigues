@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, sou o Samuel Rodrigues! 👋
 
-<!--
-**Sml-rodrigues/Sml-rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro focado no desenvolvimento de software e solução de problemas através da programação. Tenho o **Java** como linguagem principal para construção de aplicações e estudos em Orientação a Objetos, além de projetos e experimentações em **C++**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Ferramentas
+- **Linguagem Principal:** Java (POO, Estrutura de Dados, Projetos Backend/Desktop)
+- **Linguagens Secundárias/Estudos:** C++
+- **Sistemas & Ambientes:** Linux (Manjaro), Git, GitHub
+
+---
+
+### 🚀 Projetos em Destaque
+- **[LocaDrive](./)**: Sistema desenvolvido em Java focado em gerenciamento/locação de veículos.
+
+---
+
+📫 **Como me encontrar:**
+- GitHub: [Sml-rodrigues](https://github.com/Sml-rodrigues)
