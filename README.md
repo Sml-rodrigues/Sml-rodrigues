@@ -1,6 +1,6 @@
 # Olá, sou o Samuel Rodrigues! 👋
 
-Engenheiro focado no desenvolvimento de software e solução de problemas através da programação. Tenho o **Java** como linguagem principal para construção de aplicações e estudos em Orientação a Objetos, além de projetos e experimentações em **C++**.
+Estudante de Engenharia de computação, com foco no desenvolvimento de software e solução de problemas através da programação. Tenho o **Java** como linguagem principal para construção de aplicações e estudos em Orientação a Objetos, além de projetos e experimentações em **C++**.
 
 ---
 
